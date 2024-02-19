@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(227, 235, 233); 
+}
+h1{
+    font-size: 36px;
+}
+p{
+    font-size: 20px;
+    color: gray;
+}
+
+.font-highlight{
+    color: orange;
+}
+
+.harf1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.harf-img img{
+    width: 100%;
+    border: aolid red;  
+}
+
+.button{
+    text-decoration: none;
+    padding: 15px 25px;
+    color: white;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    border-radius: 10px;
+}
+.button:hover{
+    background-color: green;
+}
+        /* middel-container */
+
